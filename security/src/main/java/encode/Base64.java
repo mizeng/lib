@@ -1,6 +1,7 @@
-package security.encode;
+package encode;
 
 import javax.xml.bind.DatatypeConverter;
+
 /**
  * @author mizeng
  * @version v1.0

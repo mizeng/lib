@@ -1,9 +1,7 @@
-package security.encode;
+package encode;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import static security.encode.Base64.*;
 
 /**
  * @author mizeng
